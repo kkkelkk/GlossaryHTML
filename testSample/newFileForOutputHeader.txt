@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>Kelvin's page</title>
+</head>
+<body>
+<h2>GlossaryList</h2>
+<hr />
+<h3>Index</h3>
